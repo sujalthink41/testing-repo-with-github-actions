@@ -11,6 +11,10 @@ const App = () => {
       <li>Idli</li>
       <li>Chutney</li>
     </ul>
+
+
+    <h1 className='text-center text-3xl font-bold text-red-500'>DEV41</h1>
+    <p className='text-center text-lg text-gray-500'>Dev41 is always ready to serve you with the best integration services</p>
     </>
     
   )
